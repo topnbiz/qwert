@@ -9,6 +9,10 @@ public class qwertMain {
 		System.out.println("이클립스");
 		System.out.println("로컬 저장소");
 		System.out.println("원격 저장소");
+		
+		sub s = new sub();
+		
+		s.info();
 	}
 
 }
